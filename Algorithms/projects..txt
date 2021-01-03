@@ -1,0 +1,13 @@
+Caesar Encryption: Encrypt and Decrypt texts or whole files by using the Caesar encryption and shifting the letters by a certain number.
+
+Advanced Encryption: Look up more advanced encryption algorithms and try to implement them in Python yourself. You can also use the cryptography library to implement a professional file encryption tool.
+
+Hashing Algorithms: Use algorithms like SHA-256 or MD5 to hash files and texts. If you want, try to come up with your own hashing algorithms.
+
+Best Sorting Algorithm: Write a tool that helps you to find the best sorting algorithm out there. Implement various algorithms like merge sort, bubble sort, comb sort and so on. Then let them sort a random data set and track the time. At the end, find the most efficient one.
+
+Own Sorting Algorithm: Come up with your own sorting algorithm for numbers and implement it in Python.
+
+Search Algorithms: Write a tool that helps you to find the best search algorithm out there. Implement various algorithms like linear search, binary search, jump search and so on. Then let them search something in a random data set and track the time. At the end, find the most efficient one.
+
+Morse Code Encoder / Decoder: Implement a script that encodes your messages into Morse code and decodes them back into normal text.

@@ -1,0 +1,9 @@
+Chess Engine: This one is a bit tricky, if you build it from scratch. Develop a chess engine artificial intelligence. If you just want to build the game, without the AI, use an existing engine like Stockfish.
+
+Tic-Tac-Toe Engine: Build an artificial intelligence that plays Tic-Tac-Toe against you.
+
+Snake Game: Code a simple snake game. PyGame is a great library for this.
+
+Self-Driving Car Game: Develop a simple car racing game, where you need to beat the high score. Then build a neural network and use genetic algorithms to train it. It should beat you every time.
+
+Hangman: Develop a simple hangman game. Use a GUI, PyGame or build it as a console application.

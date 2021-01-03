@@ -1,0 +1,17 @@
+Linear Regression: Use the linear model of regression to analyze any data you like and make predictions. If you use two- or three-dimensional data, plot the results.
+
+Classification: Use a classification algorithm (like K-Nearest-Neighbors) to train the model to classify any data you like, by your criteria. If you use two- or three-dimensional data, plot the results.
+
+Clustering: Choose any data you like and use clustering to spot groups and common attributes amongst the data sets.
+
+Genetic Algorithm: Implement a genetic algorithm and train your model to perform a certain task you like. For example, you could try to make a high score at a certain game. Snake is a good choice.
+
+Handwritten Digits Classifier: Build a neural network or a support vector machine and train it to recognize handwritten digits. You can use the MNIST data set. Then try to get your own handwritten images into the trained model and predict what digits they represent.
+
+Object Recognition CV: Use any libraries you want, in order to build a computer vision system that recognizes and labels specific objects in images.
+
+Chat Bot with NLP: Build a chat bot that is able to understand and reproduce a human language. Use natural language processing algorithms.
+
+Predict Weather: Get some weather data and try to predict the weather of the next few days.
+
+Neural Network Builder: Develop a tool with a graphical user interface that helps you to design and build a neural network by click and drag. Then the user should be able to load training- and testing-data into the model. The model should also be able to be serialized and saved.

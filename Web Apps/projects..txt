@@ -1,0 +1,5 @@
+Simple Blog CMS: Use Django or Flask in order to develop a simple blog with a CMS (content management system). You should be able to write, edit and delete posts, as well as to create, manage and delete users.
+
+Mini Social Network: Use Django or Flask in order to develop a miniature version of a social network. You should have a solid login system, profiles, posts, comments and so on. Feel free to be creative.
+
+Mini Shop: Use Django or Flask in order to program a mini shop. The user should be able to buy and rate stuff. He should have a shopping cart and an account.
