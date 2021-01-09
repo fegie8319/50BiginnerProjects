@@ -1,11 +1,17 @@
-isualize Stock Data: Write a tool that accurately visualizes stock data. The best way to do that is to use candlestick charts. If you need help, check out the post Plot Candlestick Charts in Python.
+isualize Stock Data:
+    Write a tool that accurately visualizes stock data. The best way to do that is to use candlestick charts. If you need help, check out the post Plot Candlestick Charts in Python.
 
-Predict Stock Prices: Use machine learning algorithms, like linear regression, to predict stock prices. You decide how sophisticated you want to do that.
+Predict Stock Prices:
+    Use machine learning algorithms, like linear regression, to predict stock prices. You decide how sophisticated you want to do that.
 
-Net Worth Tracker: Develop a program that helps you to track your current net worth. This includes cash, bank accounts, stocks, real estate and so on. Maybe, you could use some APIs or web scraping to get the data automatically.
+Net Worth Tracker:
+    Develop a program that helps you to track your current net worth. This includes cash, bank accounts, stocks, real estate and so on. Maybe, you could use some APIs or web scraping to get the data automatically.
 
-Portfolio Evaluation: Write a tool that helps you to evaluate your stock portfolio. Take into account the diversification, the currencies, the trends and key statistics. Also, visualize the distribution of the portfolio.
+Portfolio Evaluation:
+    Write a tool that helps you to evaluate your stock portfolio. Take into account the diversification, the currencies, the trends and key statistics. Also, visualize the distribution of the portfolio.
 
-Tax Calculator: Program a tool that helps you to calculate how much you have to pay in taxes. This of course varies depending on your country.
+Tax Calculator:
+    Program a tool that helps you to calculate how much you have to pay in taxes. This of course varies depending on your country.
 
-Expense Tracker: Write a simple tool that helps you to keep track of your expenses and visualize the development.
+Expense Tracker:
+    Write a simple tool that helps you to keep track of your expenses and visualize the development.

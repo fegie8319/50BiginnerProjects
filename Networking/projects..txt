@@ -1,21 +1,32 @@
-Web Scraper: Implement a web scraper that extracts specific data out of a website. For example, you could use Wikipedia tables and build data sets out of them.
+Web Scraper:
+    Implement a web scraper that extracts specific data out of a website. For example, you could use Wikipedia tables and build data sets out of them.
 
-FTP Client: Code a FTP client that can upload, download and manage files on a server.
+FTP Client:
+    Code a FTP client that can upload, download and manage files on a server.
 
-Mail Client: Write your own mail client and automate some processes like sending templates or filtering messages.
+Mail Client:
+    Write your own mail client and automate some processes like sending templates or filtering messages.
 
-HTTP Server: Implement your own HTTP server, so that you can host a website on it.
+HTTP Server:
+    Implement your own HTTP server, so that you can host a website on it.
 
-Bandwidth Monitor: Write a tool that monitors the bandwidth of your network. You can also try to visualize it in a nice way.
+Bandwidth Monitor:
+    Write a tool that monitors the bandwidth of your network. You can also try to visualize it in a nice way.
 
-Port Scanner: Write a tool that scans open ports on a host or in a network. Try to make it as fast as possible and to scan multiple ports at the same time. If you need help, take a look at the tutorial Threaded Port Scanner in Python.
+Port Scanner:
+    Write a tool that scans open ports on a host or in a network. Try to make it as fast as possible and to scan multiple ports at the same time. If you need help, take a look at the tutorial Threaded Port Scanner in Python.
 
-TCP Chat: Implement a TCP chat that allows two different clients to communicate with each other. You can use a client-server-architecture.
+TCP Chat:
+    Implement a TCP chat that allows two different clients to communicate with each other. You can use a client-server-architecture.
 
-YouTube Downloader: Write your own YouTube downloader where you just have to enter a URL to save a video. Maybe, you want to take a look at the pytube library.
+YouTube Downloader:
+    Write your own YouTube downloader where you just have to enter a URL to save a video. Maybe, you want to take a look at the pytube library.
 
-Database Query: Program a tool that connects to a database and can execute SQL-Queries. Then show the results of the query.
+Database Query:
+    Program a tool that connects to a database and can execute SQL-Queries. Then show the results of the query.
 
-P2P File Sharing: Develop a P2P file sharing application that allows two clients to exchange files over it.
+P2P File Sharing:
+    Develop a P2P file sharing application that allows two clients to exchange files over it.
 
-File Downloader: Implement a simple downloader script. Give it the URL to an online file and download it.
+File Downloader:
+    Implement a simple downloader script. Give it the URL to an online file and download it.

@@ -1,21 +1,32 @@
-Advanced Calculator: Program an advanced calculator in Python. You can make a console application or a GUI. Implement not only basic arithmetic operations but also more complex functions like trigonometry, square root, memory and so on.  
+Advanced Calculator:
+    Program an advanced calculator in Python. You can make a console application or a GUI. Implement not only basic arithmetic operations but also more complex functions like trigonometry, square root, memory and so on.
 
-Unit Converter: Implement a unit converter of your choice. Maybe Celsius to Fahrenheit, Meters to Feet or Euros to Dollars.
+Unit Converter:
+    Implement a unit converter of your choice. Maybe Celsius to Fahrenheit, Meters to Feet or Euros to Dollars.
 
-String Reverser: Implement a script which reverses a string, while still retaining the upper- or lower-case of the individual characters.
+String Reverser:
+    Implement a script which reverses a string, while still retaining the upper- or lower-case of the individual characters.
 
-Prime Finder: Code a script which finds the nth prime number for you. You just enter a number and it gives you the respective prime number. Example: Input an 11 and get a 31.
+Prime Finder:
+    Code a script which finds the nth prime number for you. You just enter a number and it gives you the respective prime number. Example: Input an 11 and get a 31.
 
-Factorial Calculator: Use recursion to calculate the factorial of any number as efficient as possible.
+Factorial Calculator:
+    Use recursion to calculate the factorial of any number as efficient as possible.
 
-Number Guessing Game: Develop a number guessing game. The computer comes up with a random number and you can make guesses. It then tells you if the secret number is greater or smaller. At the end it tells you how many attempts you needed.
+Number Guessing Game:
+    Develop a number guessing game. The computer comes up with a random number and you can make guesses. It then tells you if the secret number is greater or smaller. At the end it tells you how many attempts you needed.
 
-Application Launch Pad: Develop a simple launch pad for your applications. A GUI where every button starts one of your favorite applications with certain options.
+Application Launch Pad:
+    Develop a simple launch pad for your applications. A GUI where every button starts one of your favorite applications with certain options.
 
-File Renamer: Implement a script which renames multiple files using regular expressions. Define the patterns yourself.
+File Renamer:
+    Implement a script which renames multiple files using regular expressions. Define the patterns yourself.
 
-RegEx Query: Develop a program that applies a given regular expression onto a given text. Preferably, use a GUI for the implementation.
+RegEx Query:
+    Develop a program that applies a given regular expression onto a given text. Preferably, use a GUI for the implementation.
 
-Spam Bot: Program a simple spammer. A bot that sends the same message over and over again. Don’t use it to annoy people!
+Spam Bot:
+    Program a simple spammer. A bot that sends the same message over and over again. Don’t use it to annoy people!
 
-Audio Video Converter: Code a script that converts a video into an audio file. For example, convert an MP4 into an MP3 by just extracting the audio. Probably, you will need some external libraries.
+Audio Video Converter:
+    Code a script that converts a video into an audio file. For example, convert an MP4 into an MP3 by just extracting the audio. Probably, you will need some external libraries.
