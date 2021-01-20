@@ -4,9 +4,6 @@ Advanced Calculator:
 Unit Converter:
     Implement a unit converter of your choice. Maybe Celsius to Fahrenheit, Meters to Feet or Euros to Dollars.
 
-String Reverser:
-    Implement a script which reverses a string, while still retaining the upper- or lower-case of the individual characters.
-
 Prime Finder:
     Code a script which finds the nth prime number for you. You just enter a number and it gives you the respective prime number. Example: Input an 11 and get a 31.
 
