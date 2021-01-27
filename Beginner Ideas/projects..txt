@@ -4,12 +4,6 @@ Advanced Calculator:
 Unit Converter:
     Implement a unit converter of your choice. Maybe Celsius to Fahrenheit, Meters to Feet or Euros to Dollars.
 
-Prime Finder:
-    Code a script which finds the nth prime number for you. You just enter a number and it gives you the respective prime number. Example: Input an 11 and get a 31.
-
-Factorial Calculator:
-    Use recursion to calculate the factorial of any number as efficient as possible.
-
 Number Guessing Game:
     Develop a number guessing game. The computer comes up with a random number and you can make guesses. It then tells you if the secret number is greater or smaller. At the end it tells you how many attempts you needed.
 
